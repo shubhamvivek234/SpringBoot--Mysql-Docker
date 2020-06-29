@@ -35,8 +35,8 @@ Get:http://192.168.99.100:9000/all
 
 POST:-http://192.168.99.100:9000/save
   {
-        "empName": "RAJASEKHAR REDDY",
-        "salary": 50000.3
+        "empName": "Shubham Saurav",
+        "salary": 500000.00
     }
 
 not able to connect to mysql docker from local
